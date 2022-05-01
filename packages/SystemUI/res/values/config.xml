@@ -312,7 +312,7 @@
         <item>com.android.systemui.biometrics.AuthController</item>
         <item>com.android.systemui.SliceBroadcastRelayHandler</item>
         <item>com.android.systemui.statusbar.notification.InstantAppNotifier</item>
-        <item>com.android.systemui.theme.ThemeOverlayController</item>
+        <item>org.protonaosp.systemui.theme.CustomThemeOverlayController</item>
         <item>com.android.systemui.accessibility.WindowMagnification</item>
         <item>com.android.systemui.accessibility.SystemActions</item>
         <item>com.android.systemui.toast.ToastUI</item>
